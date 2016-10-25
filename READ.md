@@ -9,30 +9,27 @@ JavaScript, MongoDB, Google Maps API, Passport.js
 ## Data Models, Routes, Views
 
 ### Models
-
-	- User
-	- Review
-	- Restaurant
-	- Follow
+- User
+- Review
+- Restaurant
+- Follow
 
 ### Routes
-	
-	- Sign up
-	- Login
-	- Logout
-	- Profiles
-	- Restaurant list
-	- Restaurant
-	- Add Restaurant
-	- Add Review
+- Sign up
+- Login
+- Logout
+- Profiles
+- Restaurant list
+- Restaurant
+- Add Restaurant
+- Add Review
 
 ### Views
-
-	- Sign up
-	- Login
-	- Single Profile
-	- Single Restaurant
-	- All Restaurants
-	- All Profiles
-	- New Restaurant
-	- New Review
+- Sign up
+- Login
+- Single Profile
+- Single Restaurant
+- All Restaurants
+- All Profiles
+- New Restaurant
+- New Review
